@@ -1,0 +1,1 @@
+# g-rsel-programlama-sql-tablosunu-datagridviewe-ekleme
