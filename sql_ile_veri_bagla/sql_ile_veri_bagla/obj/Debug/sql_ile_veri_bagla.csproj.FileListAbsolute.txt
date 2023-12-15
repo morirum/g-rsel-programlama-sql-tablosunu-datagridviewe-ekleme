@@ -1,0 +1,10 @@
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\sql_ile_veri_bagla\sql_ile_veri_bagla\obj\Debug\sql_ile_veri_bagla.csproj.AssemblyReference.cache
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\sql_ile_veri_bagla\sql_ile_veri_bagla\obj\Debug\sql_ile_veri_bagla.Properties.Resources.resources
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\sql_ile_veri_bagla\sql_ile_veri_bagla\obj\Debug\sql_ile_veri_bagla.csproj.GenerateResource.cache
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\sql_ile_veri_bagla\sql_ile_veri_bagla\obj\Debug\sql_ile_veri_bagla.csproj.CoreCompileInputs.cache
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\sql_ile_veri_bagla\sql_ile_veri_bagla\obj\Debug\sql_ile_veri_bagla.Form1.resources
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\sql_ile_veri_bagla\sql_ile_veri_bagla\bin\Debug\sql_ile_veri_bagla.exe.config
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\sql_ile_veri_bagla\sql_ile_veri_bagla\bin\Debug\sql_ile_veri_bagla.exe
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\sql_ile_veri_bagla\sql_ile_veri_bagla\bin\Debug\sql_ile_veri_bagla.pdb
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\sql_ile_veri_bagla\sql_ile_veri_bagla\obj\Debug\sql_ile_veri_bagla.exe
+C:\Users\rumey\OneDrive\Masaüstü\arman_hoca_dersleri\sql_ile_veri_bagla\sql_ile_veri_bagla\obj\Debug\sql_ile_veri_bagla.pdb
